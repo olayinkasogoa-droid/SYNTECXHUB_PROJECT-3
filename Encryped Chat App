@@ -6,5 +6,3 @@ Implement socket communication (TCP) and symmetric encryption on messages.
 Include key-exchange or pre-shared key handling, and safe IV usage. 
 Support multiple clients (basic concurrency) and message logging. 
 
-I make a directory secureChat then I updated my linux and i checked to see the python3 version is there.
-Then i install the require package Pycryptodome
